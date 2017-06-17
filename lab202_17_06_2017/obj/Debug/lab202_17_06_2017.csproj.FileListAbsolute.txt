@@ -1,0 +1,6 @@
+C:\Users\Lala.M\Desktop\lab202_17_06_2017\lab202_17_06_2017\bin\Debug\lab202_17_06_2017.exe
+C:\Users\Lala.M\Desktop\lab202_17_06_2017\lab202_17_06_2017\bin\Debug\lab202_17_06_2017.exe.config
+C:\Users\Lala.M\Desktop\lab202_17_06_2017\lab202_17_06_2017\obj\Debug\lab202_17_06_2017.exe
+C:\Users\Lala.M\Desktop\lab202_17_06_2017\lab202_17_06_2017\obj\Debug\lab202_17_06_2017.pdb
+C:\Users\Lala.M\Desktop\lab202_17_06_2017\lab202_17_06_2017\bin\Debug\lab202_17_06_2017.pdb
+C:\Users\Lala.M\Desktop\lab202_17_06_2017\lab202_17_06_2017\obj\Debug\lab202_17_06_2017.csprojResolveAssemblyReference.cache
